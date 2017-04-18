@@ -1,0 +1,12 @@
+C:\Users\mwk22\Google Drive\Web Dev\Induction Modules\responsive-websites-bootstrap3\ResponsivePatterns\MKAssessmentAverages\MKAssessmentAverages\bin\Debug\MKAssessmentAverages.exe.config
+C:\Users\mwk22\Google Drive\Web Dev\Induction Modules\responsive-websites-bootstrap3\ResponsivePatterns\MKAssessmentAverages\MKAssessmentAverages\bin\Debug\MKAssessmentAverages.exe
+C:\Users\mwk22\Google Drive\Web Dev\Induction Modules\responsive-websites-bootstrap3\ResponsivePatterns\MKAssessmentAverages\MKAssessmentAverages\bin\Debug\MKAssessmentAverages.pdb
+C:\Users\mwk22\Google Drive\Web Dev\Induction Modules\responsive-websites-bootstrap3\ResponsivePatterns\MKAssessmentAverages\MKAssessmentAverages\obj\Debug\MKAssessmentAverages.csprojResolveAssemblyReference.cache
+C:\Users\mwk22\Google Drive\Web Dev\Induction Modules\responsive-websites-bootstrap3\ResponsivePatterns\MKAssessmentAverages\MKAssessmentAverages\obj\Debug\MKAssessmentAverages.exe
+C:\Users\mwk22\Google Drive\Web Dev\Induction Modules\responsive-websites-bootstrap3\ResponsivePatterns\MKAssessmentAverages\MKAssessmentAverages\obj\Debug\MKAssessmentAverages.pdb
+C:\Users\mwk22\Google Drive\Web Dev\Classwork\C#\Assessments\MKAssessmentAverages\MKAssessmentAverages\bin\Debug\MKAssessmentAverages.exe.config
+C:\Users\mwk22\Google Drive\Web Dev\Classwork\C#\Assessments\MKAssessmentAverages\MKAssessmentAverages\obj\Debug\MKAssessmentAverages.exe
+C:\Users\mwk22\Google Drive\Web Dev\Classwork\C#\Assessments\MKAssessmentAverages\MKAssessmentAverages\obj\Debug\MKAssessmentAverages.pdb
+C:\Users\mwk22\Google Drive\Web Dev\Classwork\C#\Assessments\MKAssessmentAverages\MKAssessmentAverages\obj\Debug\MKAssessmentAverages.csprojResolveAssemblyReference.cache
+C:\Users\mwk22\Google Drive\Web Dev\Classwork\C#\Assessments\MKAssessmentAverages\MKAssessmentAverages\bin\Debug\MKAssessmentAverages.exe
+C:\Users\mwk22\Google Drive\Web Dev\Classwork\C#\Assessments\MKAssessmentAverages\MKAssessmentAverages\bin\Debug\MKAssessmentAverages.pdb

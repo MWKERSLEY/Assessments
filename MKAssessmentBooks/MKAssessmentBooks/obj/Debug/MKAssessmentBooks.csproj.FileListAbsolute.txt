@@ -1,0 +1,6 @@
+C:\Users\mwk22\Google Drive\Web Dev\Classwork\C#\Assessments\MKAssessmentBooks\MKAssessmentBooks\bin\Debug\MKAssessmentBooks.exe.config
+C:\Users\mwk22\Google Drive\Web Dev\Classwork\C#\Assessments\MKAssessmentBooks\MKAssessmentBooks\bin\Debug\MKAssessmentBooks.exe
+C:\Users\mwk22\Google Drive\Web Dev\Classwork\C#\Assessments\MKAssessmentBooks\MKAssessmentBooks\bin\Debug\MKAssessmentBooks.pdb
+C:\Users\mwk22\Google Drive\Web Dev\Classwork\C#\Assessments\MKAssessmentBooks\MKAssessmentBooks\obj\Debug\MKAssessmentBooks.csprojResolveAssemblyReference.cache
+C:\Users\mwk22\Google Drive\Web Dev\Classwork\C#\Assessments\MKAssessmentBooks\MKAssessmentBooks\obj\Debug\MKAssessmentBooks.exe
+C:\Users\mwk22\Google Drive\Web Dev\Classwork\C#\Assessments\MKAssessmentBooks\MKAssessmentBooks\obj\Debug\MKAssessmentBooks.pdb
